@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://safecar28.github.io/</loc>
     <lastmod>2020-04-09T15:48:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://safecar28.github.io/posts/</loc>
     <lastmod>2020-04-09T15:48:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/virtual-class-experience/</loc>
+    <loc>http://safecar28.github.io/posts/virtual-class-experience/</loc>
     <lastmod>2020-04-09T15:48:30+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/day1-of-covid/</loc>
+    <loc>http://safecar28.github.io/posts/day1-of-covid/</loc>
     <lastmod>2020-03-26T12:26:54+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://safecar28.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://safecar28.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
