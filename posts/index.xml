@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Neal&#39;s Blog</title>
-    <link>http://safecar28.github.io/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Neal&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Apr 2020 15:48:30 +0530</lastBuildDate>
     
-	<atom:link href="http://safecar28.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Virtual Experience</title>
-      <link>http://safecar28.github.io/posts/virtual-class-experience/</link>
+      <link>/posts/virtual-class-experience/</link>
       <pubDate>Thu, 09 Apr 2020 15:48:30 +0530</pubDate>
       
-      <guid>http://safecar28.github.io/posts/virtual-class-experience/</guid>
+      <guid>/posts/virtual-class-experience/</guid>
       <description>The World of Virtual Connections Days have passed and the world has been moving towards virtual connections, proving that humanity can still educate, entertain and nourish themselves from afar.
 When we had our first virtual class, I was very excited, using IT to study sounded awesome.
 So, I joined my first meeting the day, it was our Vice Principal&amp;rsquo;s meeting and I had anticipated this to be great. So far it went great, a few people were not able to connect but everything went quite smoothly and we managed to learn stuff over the internet.</description>
@@ -24,10 +24,10 @@ So, I joined my first meeting the day, it was our Vice Principal&amp;rsquo;s mee
     
     <item>
       <title>Day1 of Covid</title>
-      <link>http://safecar28.github.io/posts/day1-of-covid/</link>
+      <link>/posts/day1-of-covid/</link>
       <pubDate>Thu, 26 Mar 2020 12:26:54 +0530</pubDate>
       
-      <guid>http://safecar28.github.io/posts/day1-of-covid/</guid>
+      <guid>/posts/day1-of-covid/</guid>
       <description>Hello Folks This is the post where I describe the first day of lockdown. Lets get started. So, during the first few days of the start of the pandemic, I was still gathering information, everything seemed random and I did not acknowledge the cause yet.
 So I started digging and found the origin, China. I am not actually blaming China for this but this where hell began. Wuhan has a wet market which sell fresh slaughters and one of the Pangolins in the market caught the pathogen through a bat.</description>
     </item>
