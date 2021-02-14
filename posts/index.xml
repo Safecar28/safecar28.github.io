@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Neal&#39;s blog</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Neal&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2020 11:52:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 11:58:00 +0530</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A New Post, A New Era</title>
+      <link>/posts/a-new-post-a-new-era/</link>
+      <pubDate>Sun, 14 Feb 2021 11:58:00 +0530</pubDate>
+      
+      <guid>/posts/a-new-post-a-new-era/</guid>
+      <description>Been a while don&amp;rsquo;t it? I am creating this post to summarise, in brief, about what&amp;rsquo;s happened. 11 months ago, I stopped using this, for, then, I acquired a new thing to play with, Minecraft Betas, this is where the story starts. I loved Minecraft Betas, they were full of new features which I could try early on, it was fun. Eventually, after playing countless hours on these Betas, I acquired yet another thing to play with, Minecraft PvP servers.</description>
+    </item>
     
     <item>
       <title>The Summer Break Is Over</title>
@@ -27,7 +36,7 @@ I have been waiting for our school to switch to Meet for ages now and during the
       <pubDate>Tue, 26 May 2020 09:56:30 +0530</pubDate>
       
       <guid>/posts/differ-bw-types-of-blogs/</guid>
-      <description>Difference between online and offline blogs.    Offline Blogs Online Blogs     These blogs can be posted whenever internet connectivity is available. These blogs are actively managed and updated, thus requiring continuous internet access.   These blogs are created with a Offline Blog Editor. These blogs can be created online.    This was task 2 of our IT Project. </description>
+      <description> Difference between online and offline blogs.    Offline Blogs Online Blogs     These blogs can be posted whenever internet connectivity is available. These blogs are actively managed and updated, thus requiring continuous internet access.   These blogs are created with a Offline Blog Editor. These blogs can be created online.    This was task 2 of our IT Project. </description>
     </item>
     
     <item>
